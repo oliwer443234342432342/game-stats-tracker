@@ -1,0 +1,31 @@
+body {
+  background-color: #1e1e1e;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.container {
+  width: 300px;
+  margin: auto;
+}
+
+input {
+  padding: 8px;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+#statsDisplay {
+  margin-top: 20px;
+  text-align: left;
+  background: #2c2c2c;
+  padding: 15px;
+  border-radius: 10px;
+}
